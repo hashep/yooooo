@@ -92,7 +92,7 @@ justify-content: space-between;
     top: 0;
 }
 
-@media screen and(max-width: 645px) {
+@media screen and (max-width: 1000px) {
     #no-mobile{
         display: none;
     }
