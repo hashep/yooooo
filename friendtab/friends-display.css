@@ -1,0 +1,52 @@
+.friends-display{
+    display: block;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.friends-display i{
+    color:rgba(0, 0, 0, 0.3)
+}
+
+.user-comp .pa{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
+
+.user-comp__column span{
+    position: absolute;
+    left: 30px;
+}
+
+.friends-channel .user-comp__nameborder span{
+    margin-left: 1615px;
+}
+
+.user-comp__nameborder .user-comp__name{
+    padding-bottom: 25px;
+}
+
+.find{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 775px;
+    margin-top: 200px;
+}
+
+.h5{
+    width: 100%;
+}
+
+.help{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
